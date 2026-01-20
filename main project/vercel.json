@@ -1,1 +1,6 @@
 
+{
+  "rewrites": [
+    { "source": "Group-Project", "destination": "/index.html" }
+  ]
+}
